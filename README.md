@@ -1,13 +1,13 @@
 # GreenClothaWay
 
-## prerequisites
+## prerequisites 
 `python >= 3.6`
 
 `pip3 lts`
 
 `python-virtualenv`
 
-## preperation
+## preperation for environment
 create a virtual environment and update pip and wheel
 ```
 python3 -m venv <venvname>
@@ -16,7 +16,7 @@ pip install -U pip
 pip install -U wheel
 ```
 
-## installation
+## installation 
 install package. one can find the releases [here](https://github.com/GreenClothaWay/Blog/tree/master/release) 
 ```
 pip install greenclothaway-<release_version>-py3-none-any.whl
